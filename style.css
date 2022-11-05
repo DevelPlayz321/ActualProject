@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+
+button{
+    width: 100%;
+    border-radius: 50px;
+    background-color: blueviolet;
+    font-variant-position: center;
+}
